@@ -1,0 +1,24 @@
+button {
+    float: left;
+}
+
+form {
+
+    float: right;
+    margin: 20px;
+    width: 30%;    
+
+}
+
+data-animal {
+
+    background: teal;
+
+}
+
+#gifs-appear-here {
+
+    margin: 20px;
+
+
+}

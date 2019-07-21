@@ -22,3 +22,9 @@ data-animal {
 
 
 }
+
+.pause {
+
+    animation-play-state: paused;
+}
+
